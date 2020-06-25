@@ -1,1 +1,1 @@
-Getting started with React for understanding the basic concepts .
+Getting started with React for understanding the basic concepts . 
